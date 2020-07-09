@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Version>1.0-pre1</Version>
+    <Authors>No Name Pro</Authors>
+    <Description>A helpfull library for every C#-Developer</Description>
+    <Copyright>by No Name Pro</Copyright>
+    <RepositoryUrl>https://github.com/NoNamePro0/Helpfull</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
