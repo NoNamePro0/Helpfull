@@ -10,5 +10,5 @@
 [![Nuget](https://img.shields.io/nuget/dt/Helpfull?label=Downloads)](https://www.nuget.org/packages/Helpfull/)
 
 ## Features
-- **Hash** - [Examples](https://github.com/NoNamePro0/Helpfull/blob/master/Example/Hash.cs) - [Code](https://github.com/NoNamePro0/Helpfull/blob/master/Helpfull/Hash.cs)
+- **Hash** - [Examples](https://github.com/NoNamePro0/Helpfull/wiki/Hash#examples) - [Code](https://github.com/NoNamePro0/Helpfull/blob/master/Helpfull/Hash.cs)
 - More comming soon.. [What's with writing your idea as issue?](https://github.com/NoNamePro0/Helpfull/issues/new)
