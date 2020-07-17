@@ -11,4 +11,5 @@
 
 ## Features
 - **Hash** - [Examples](https://github.com/NoNamePro0/Helpfull/wiki/Hash#examples) - [Code](https://github.com/NoNamePro0/Helpfull/blob/master/Helpfull/Hash.cs)
+- **Exec** - [Examples](https://github.com/NoNamePro0/Helpfull/wiki/Exec#examples) - [Code](https://github.com/NoNamePro0/Helpfull/blob/master/Helpfull/Exec.cs)
 - More comming soon.. [What's with writing your idea as issue?](https://github.com/NoNamePro0/Helpfull/issues/new)
